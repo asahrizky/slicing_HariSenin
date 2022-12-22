@@ -1,0 +1,92 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  /* background-color: red; */
+}
+
+.logodiv {
+  margin-left: 100px;
+  margin-top: 40px;
+}
+
+.logoharisenin {
+  height: 34px;
+  width: 154px;
+}
+
+.list-navbar {
+  float: right;
+  margin-right: 280px;
+  margin-top: -75px;
+}
+
+.list-navbar ul {
+}
+
+.list-navbar ul li {
+  display: inline;
+  line-height: 80px;
+  list-style: none;
+  margin: 0 15px;
+}
+
+.list-navbar ul li a {
+  color: black;
+  font-size: 24px;
+}
+
+.button-div {
+  margin-left: 1240px;
+  margin-top: -40px;
+}
+
+.button-div button {
+  height: 40px;
+  border-radius: 5px;
+}
+
+.button1 {
+  background-color: white;
+  color: green;
+  border-color: green;
+}
+
+.button2 {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
+
+.Hero {
+  margin: 200px 100px;
+}
+
+.topnav {
+}
+
+.topnav input {
+  width: 380px;
+  height: 30px;
+}
+
+.topnav button {
+  height: 35px;
+  background-color: green;
+  color: white;
+}
+
+.img-hero {
+  margin-left: 740px;
+  margin-top: -600px;
+}
+
+.img-hero img {
+  width: px;
+}
